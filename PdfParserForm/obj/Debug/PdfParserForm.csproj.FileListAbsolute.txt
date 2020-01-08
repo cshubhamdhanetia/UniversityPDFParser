@@ -1,0 +1,12 @@
+c:\users\admin\source\repos\PdfParserForm\PdfParserForm\bin\Debug\PdfParserForm.exe.config
+c:\users\admin\source\repos\PdfParserForm\PdfParserForm\bin\Debug\PdfParserForm.exe
+c:\users\admin\source\repos\PdfParserForm\PdfParserForm\bin\Debug\PdfParserForm.pdb
+c:\users\admin\source\repos\PdfParserForm\PdfParserForm\obj\Debug\PdfParserForm.csprojResolveAssemblyReference.cache
+c:\users\admin\source\repos\PdfParserForm\PdfParserForm\obj\Debug\PdfParserForm.Form1.resources
+c:\users\admin\source\repos\PdfParserForm\PdfParserForm\obj\Debug\PdfParserForm.Properties.Resources.resources
+c:\users\admin\source\repos\PdfParserForm\PdfParserForm\obj\Debug\PdfParserForm.csproj.GenerateResource.Cache
+c:\users\admin\source\repos\PdfParserForm\PdfParserForm\obj\Debug\PdfParserForm.csproj.CoreCompileInputs.cache
+c:\users\admin\source\repos\PdfParserForm\PdfParserForm\obj\Debug\PdfParserForm.exe
+c:\users\admin\source\repos\PdfParserForm\PdfParserForm\obj\Debug\PdfParserForm.pdb
+c:\users\admin\source\repos\PdfParserForm\PdfParserForm\bin\Debug\itextsharp.dll
+c:\users\admin\source\repos\PdfParserForm\PdfParserForm\bin\Debug\itextsharp.xml
